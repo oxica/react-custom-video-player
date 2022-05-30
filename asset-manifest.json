@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/react-custom-video-player/static/css/main.5ca90a96.css",
-    "main.js": "/react-custom-video-player/static/js/main.0bf7d843.js",
-    "static/media/pexels.mp4": "/react-custom-video-player/static/media/pexels.5ca31f51fa784772bc8d.mp4",
+    "main.js": "/react-custom-video-player/static/js/main.b931c75f.js",
+    "static/media/colors.mp4": "/react-custom-video-player/static/media/colors.f2fc86162a09aede738f.mp4",
+    "static/media/thum.jpg": "/react-custom-video-player/static/media/thum.bb30cc56c493ac4a921b.jpg",
     "index.html": "/react-custom-video-player/index.html",
     "main.5ca90a96.css.map": "/react-custom-video-player/static/css/main.5ca90a96.css.map",
-    "main.0bf7d843.js.map": "/react-custom-video-player/static/js/main.0bf7d843.js.map"
+    "main.b931c75f.js.map": "/react-custom-video-player/static/js/main.b931c75f.js.map"
   },
   "entrypoints": [
     "static/css/main.5ca90a96.css",
-    "static/js/main.0bf7d843.js"
+    "static/js/main.b931c75f.js"
   ]
 }
